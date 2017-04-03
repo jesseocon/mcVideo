@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "description": "y",
+  "main": "public/javascripts/app.js",
+  "authors": [
+    "Jesse Ocon <jesse@masterclass.com>"
+  ],
+  "license": "y",
+  "keywords": [
+    "wistia"
+  ],
+  "homepage": "https://github.com/vigetlabs/gulp-starter",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
