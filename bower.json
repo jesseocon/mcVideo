@@ -1,6 +1,6 @@
 {
-  "name": "y",
-  "description": "y",
+  "name": "mc-video",
+  "description": "Video wrapper for wistia",
   "main": "public/javascripts/app.js",
   "authors": [
     "Jesse Ocon <jesse@masterclass.com>"
